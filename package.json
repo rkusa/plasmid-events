@@ -1,0 +1,32 @@
+{
+  "name": "plasmid-events",
+  "version": "0.1.0",
+  "author": "Markus Ast <npm.m@rkusa.st>",
+  "description": "plasmid plugin for sending custom events through the cluster",
+  "keywords": [
+    "scuttlebutt",
+    "gossip",
+    "epidemic",
+    "protocol",
+    "events",
+    "plasmid"
+  ],
+  "main": "lib/",
+  "dependencies": {
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "bugs": {
+    "url": "https://github.com/rkusa/plasmid-events/issues"
+  },
+  "homepage": "https://github.com/rkusa/plasmid-events",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rkusa/plasmid-events.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10"
+  }
+}
